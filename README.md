@@ -1,4 +1,4 @@
-A simple program that implements four algorithms to compute the Maximum Subarray Problem (School Project, Complexity class, 2017).
+A simple program that implements four algorithms to compute the Maximum Subarray Problem (old school project, Complexity class, 2017).
 
 ## Complexity
 
