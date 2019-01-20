@@ -1,4 +1,4 @@
-Four algorithm to compute the Maximum Subarray Problem (School Project, 2017).
+Four algorithms to compute the Maximum Subarray Problem (School Project, 2017).
 
 ## Complexity
 
