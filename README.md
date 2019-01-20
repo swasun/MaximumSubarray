@@ -95,3 +95,8 @@ On the Kadane's algorithm with an input of size 1M:
 Generation of the sequence in 0.495s.
 Execution of the algorithm in 0.003076s.
 ```
+
+## Authors
+
+* Charly LAMOTHE
+* Doulkifouli ABDALLAH-ALI
