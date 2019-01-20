@@ -10,7 +10,7 @@ Four algorithms to compute the Maximum Subarray Problem (School Project, Complex
 ## Usage
 
 ```
-mkdir obj && mkdir bin
+mkdir obj && mkdir bin && make
 ./bin/maximum_subarray --help
 
 Usage: ./bin/maximum_subarray <algorithm> <input> <options>
