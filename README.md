@@ -10,6 +10,9 @@ Four algorithms to compute the Maximum Subarray Problem (School Project, Complex
 ## Usage
 
 ```
+mkdir obj && mkdir bin
+./bin/maximum_subarray --help
+
 Usage: ./bin/maximum_subarray <algorithm> <input> <options>
 
 Algorithms: --naive | --naive_opti | --divide_conquer | --kadane
