@@ -1,7 +1,7 @@
 /*******************************************************************************
  * Copyright (C) 2019 Charly Lamothe                                           *
  *                                                                             *
- * This file is part of MaximumSubarray.                                       *
+ * This file is part of MaximumSubarrayProblem.                                *
  *                                                                             *
  *   Licensed under the Apache License, Version 2.0 (the "License");           *
  *   you may not use this file except in compliance with the License.          *
