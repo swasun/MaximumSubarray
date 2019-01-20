@@ -2,9 +2,9 @@ Four algorithms to compute the Maximum Subarray Problem (School Project, 2017).
 
 ## Complexity
 
-*Naive algorithm* in <img src="https://latex.codecogs.com/gif.latex?O(n^3)"/> \
-*Optimized version of naive algorithm* in <img src="https://latex.codecogs.com/gif.latex?O(n^2)"/> \
-*Divide-and-conquer algorithm* in <img src="https://latex.codecogs.com/gif.latex?O(n log n)"/> \
+*Naive algorithm* in <a href="https://www.codecogs.com/eqnedit.php?latex=O(n^3)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?O(n^3)" title="O(n^3)" /></a> \
+*Optimized version of naive algorithm* in <a href="https://www.codecogs.com/eqnedit.php?latex=O(n^2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?O(n^2)" title="O(n^2)⁾" /></a> \
+*Divide-and-conquer algorithm* in <a href="https://www.codecogs.com/eqnedit.php?latex=O(n&space;\&space;log&space;\&space;n)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?O(n&space;\&space;log&space;\&space;n)" title="O(n \ log \ n)" /></a> \
 *Kadane's algorithm* in <img src="https://latex.codecogs.com/gif.latex?O(n)"/>
 
 ## Usage
