@@ -35,6 +35,8 @@ Inputs: ((-i | --stdin) <n0..ni>) | ((-r | --random) <size>) | ((-f | --file)
 ## Using the code
 
 ```c
+#include "maximum_subarray.h"
+
 int *T, n, k, l, sum;
 
 /* Fill T and n */
