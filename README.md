@@ -98,5 +98,5 @@ Execution of the algorithm in 0.003076s.
 
 ## Authors
 
-* Charly LAMOTHE
-* Doulkifouli ABDALLAH-ALI
+* Charly Lamothe
+* Doulkifouli Abdallah-Ali
